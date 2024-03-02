@@ -78,3 +78,7 @@ h1 span {
   outline: 0;
   box-shadow: none;
 }
+
+.navbar-toggler-icon {
+  color: white !important;
+}
